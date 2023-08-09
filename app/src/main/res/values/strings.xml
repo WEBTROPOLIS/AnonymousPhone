@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AnonymousPhone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="count_phone_info">Telefonos Encontrados: %1$d</string>
+    <string name="welcome_to_app">Bienvenido a PhoneApp</string>
+    <string name="antes_precio">Antes :$</string>
+    <string name="ahora_precio">Ahora :$</string>
+    <string name="formadepago_true">Forma de Pago: Crédito y Efectivo</string>
+    <string name="formadepago_false">Forma de Pago: Solo Efectivo</string>
+    <string name="consulta_subject">Consulta %s id:%s</string>
+    <string name="consulta_message">Hola,\n\nEstoy interesado en el producto %s de codigo %s y
+        me gustaría que me contactaran a este e-mail o al siguiente número de telefono
+        [+56 y tu numero teléfonico]\n\nQuedo Atento.</string>
+    <string name="dialog_title_message">Confirmación</string>
+    <string name="dialog_message">¿Estás seguro de que deseas enviar un correo para ser contactado?</string>
+    <string name="btn_positive_text">Sí</string>
+    <string name="email_to_send">info@novaera.cl</string>
+    <string name="btn_negative_text">No</string>
+    <string name="price_format">$ %s</string>
+
+
+</resources>
